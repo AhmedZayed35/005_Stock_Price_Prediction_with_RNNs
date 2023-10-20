@@ -26,7 +26,7 @@ To run the code, you need to have the following prerequisites:
 
 1. Clone the repository
 
-   ```shellgit clone https://github.com/your-username/stock-price-prediction.git```
+   ```git clone https://github.com/AhmedZayed35/005_Stock_Price_Prediction_with_RNNs```
 2. Install the required packages after navigating to the project directory
 
    ```pip install -r requirements.txt```
